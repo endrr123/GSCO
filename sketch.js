@@ -1,4 +1,4 @@
-var call, wall;
+var car, wall;
 var speed, weight;
 var deformation
 
